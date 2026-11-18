@@ -1547,82 +1547,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Amap.png"
     },
     {
-      "name": "AU",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AU.png"
-    },
-    {
-      "name": "CA",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/CA.png"
-    },
-    {
-      "name": "CN",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/CN.png"
-    },
-    {
-      "name": "DE",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DE.png"
-    },
-    {
-      "name": "FR",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FR.png"
-    },
-    {
-      "name": "HK",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HK.png"
-    },
-    {
-      "name": "JP",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/JP.png"
-    },
-    {
-      "name": "KR",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KR.png"
-    },
-    {
-      "name": "MO",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MO.png"
-    },
-    {
-      "name": "RU",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/RU.png"
-    },
-    {
-      "name": "SG",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SG.png"
-    },
-    {
-      "name": "TH",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TH.png"
-    },
-    {
-      "name": "TR",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TR.png"
-    },
-    {
-      "name": "TW",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TW.png"
-    },
-    {
-      "name": "UK",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/UK.png"
-    },
-    {
-      "name": "UN",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/UN.png"
-    },
-    {
-      "name": "US",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/US.png"
-    },
-    {
-      "name": "VN",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/VN.png"
-    },
-    {
-      "name": "China",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/China.png"
-    },
-    {
       "name": "123",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/123.png"
     },
@@ -3529,6 +3453,82 @@
     {
       "name": "xAI",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/xAI.png"
+    },
+    {
+      "name": "AU",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AU.png"
+    },
+    {
+      "name": "CA",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/CA.png"
+    },
+    {
+      "name": "CN",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/CN.png"
+    },
+    {
+      "name": "DE",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DE.png"
+    },
+    {
+      "name": "FR",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FR.png"
+    },
+    {
+      "name": "HK",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HK.png"
+    },
+    {
+      "name": "JP",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/JP.png"
+    },
+    {
+      "name": "KR",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KR.png"
+    },
+    {
+      "name": "MO",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MO.png"
+    },
+    {
+      "name": "RU",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/RU.png"
+    },
+    {
+      "name": "SG",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SG.png"
+    },
+    {
+      "name": "TH",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TH.png"
+    },
+    {
+      "name": "TR",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TR.png"
+    },
+    {
+      "name": "TW",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TW.png"
+    },
+    {
+      "name": "UK",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/UK.png"
+    },
+    {
+      "name": "UN",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/UN.png"
+    },
+    {
+      "name": "US",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/US.png"
+    },
+    {
+      "name": "VN",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/VN.png"
+    },
+    {
+      "name": "China",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/China.png"
     }
   ]
 }
