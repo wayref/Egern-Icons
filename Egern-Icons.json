@@ -1,210 +1,122 @@
 {
   "name": "Egern Icons",
-  "description": "by wayref",
+  "description": "QT的自用图标",
   "icons": [
     {
-      "name": "123",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/123.png"
+      "name": "1.1.1.1",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/1.1.1.1.png"
     },
     {
       "name": "12306",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/12306.png"
     },
     {
-      "name": "1Password",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/1Password.png"
+      "name": "123云盘",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/123NetWorkDisk.png"
     },
     {
-      "name": "ABEMA",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ABEMA.png"
+      "name": "1919",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/1919.png"
     },
     {
-      "name": "AMC",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AMC.png"
+      "name": "360摄像机",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/360SmartCamera.png"
     },
     {
-      "name": "AU",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AU.png"
+      "name": "360智慧生活",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SafetyHome.png"
     },
     {
-      "name": "AWS",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AWS.png"
+      "name": "36氪",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/36Kr.png"
     },
     {
-      "name": "Adblock",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Adblock.png"
+      "name": "555电影",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/555DY.png"
     },
     {
-      "name": "Adobe",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Adobe.png"
+      "name": "5EPlay",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/5EPlay.png"
     },
     {
-      "name": "AliPay",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AliPay.png"
+      "name": "Adobe Creative Cloud",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Adobe_Creative_Cloud.png"
     },
     {
-      "name": "Alibaba",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Alibaba.png"
+      "name": "Agenda",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Agenda.png"
     },
     {
-      "name": "AlibabaCloud",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AlibabaCloud.png"
-    },
-    {
-      "name": "AliyunDrive",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AliyunDrive.png"
-    },
-    {
-      "name": "AmazonAlexa",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AmazonAlexa.png"
-    },
-    {
-      "name": "AmazonMusic",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AmazonMusic.png"
-    },
-    {
-      "name": "Anthropic",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Anthropic.png"
-    },
-    {
-      "name": "AppStore",
+      "name": "App Store",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AppStore.png"
     },
     {
-      "name": "Apple",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Apple.png"
+      "name": "AppRaven",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AppRaven.png"
     },
     {
-      "name": "AppleArcade",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AppleArcade.png"
+      "name": "Audiomack",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Audiomack.png"
     },
     {
-      "name": "AppleBooks",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AppleBooks.png"
-    },
-    {
-      "name": "AppleFitnessPlus",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AppleFitnessPlus.png"
-    },
-    {
-      "name": "AppleMusic",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AppleMusic.png"
-    },
-    {
-      "name": "AppleNewsPlus",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AppleNewsPlus.png"
-    },
-    {
-      "name": "ApplePodcasts",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ApplePodcasts.png"
-    },
-    {
-      "name": "AppleTV",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AppleTV.png"
-    },
-    {
-      "name": "Available",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Available.png"
-    },
-    {
-      "name": "BBC",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/BBC.png"
-    },
-    {
-      "name": "Bahamut",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Bahamut.png"
-    },
-    {
-      "name": "Baidu",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Baidu.png"
-    },
-    {
-      "name": "BaiduNetdisk",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/BaiduNetdisk.png"
-    },
-    {
-      "name": "BestBuy",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/BestBuy.png"
-    },
-    {
-      "name": "Bilibili",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Bilibili.png"
-    },
-    {
-      "name": "Binance",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Binance.png"
-    },
-    {
-      "name": "Bing",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Bing.png"
+      "name": "B612咔叽",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SnowCamera.png"
     },
     {
       "name": "Bluesky",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Bluesky.png"
     },
     {
-      "name": "ByteDance",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ByteDance.png"
+      "name": "BoxJS",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/BoxJS.png"
     },
     {
-      "name": "CA",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/CA.png"
+      "name": "CC直播",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/CCLive.png"
     },
     {
-      "name": "CATCHPLAYPlus",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/CATCHPLAYPlus.png"
+      "name": "ChatGPT",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ChatGPT.png"
     },
     {
-      "name": "CN",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/CN.png"
+      "name": "Claude",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Claude.png"
     },
     {
-      "name": "China",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/China.png"
+      "name": "Cubox",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Cubox.png"
     },
     {
-      "name": "ChinaMobile",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ChinaMobile.png"
+      "name": "DJ多多",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DjDuoDuo.png"
     },
     {
-      "name": "ChinaMobileCloudDrive",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ChinaMobileCloudDrive.png"
+      "name": "DNS防泄露",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Prevent_DNS_Leaks.png"
     },
     {
-      "name": "Clubhouse",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Clubhouse.png"
+      "name": "DREAME",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DREAME.png"
     },
     {
-      "name": "Copilot",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Copilot.png"
+      "name": "Darkroom",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Darkroom.png"
     },
     {
-      "name": "Crunchyroll",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Crunchyroll.png"
+      "name": "Dazn",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Dazn.png"
     },
     {
-      "name": "DAZN",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DAZN.png"
-    },
-    {
-      "name": "DE",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DE.png"
-    },
-    {
-      "name": "DMMTV",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DMMTV.png"
+      "name": "DeepL",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DeepL.png"
     },
     {
       "name": "DeepSeek",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DeepSeek.png"
     },
     {
-      "name": "Deezer",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Deezer.png"
-    },
-    {
-      "name": "DingTalk",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DingTalk.png"
+      "name": "DigitalHeartbeat",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DigitalHeartbeat.png"
     },
     {
       "name": "Discord",
@@ -212,611 +124,1495 @@
     },
     {
       "name": "Discovery+",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Discovery+.png"
-    },
-    {
-      "name": "Disney",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Disney.png"
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Discovery%2B.png"
     },
     {
       "name": "Disney+",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Disney+.png"
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Disney%2B.png"
     },
     {
-      "name": "DisneyPlus",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DisneyPlus.png"
+      "name": "Dlabel云标签",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Dlabel.png"
     },
     {
-      "name": "Douban",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Douban.png"
+      "name": "Documents",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Documents.png"
     },
     {
-      "name": "Doubao",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Doubao.png"
+      "name": "Drafts",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Drafts.png"
     },
     {
-      "name": "Douyin",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Douyin.png"
+      "name": "ECOVACS HOME",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/EcovacsHome.png"
     },
     {
-      "name": "Dropbox",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Dropbox.png"
-    },
-    {
-      "name": "ESPN",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ESPN.png"
+      "name": "Elk",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Elk.png"
     },
     {
       "name": "Emby",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Emby.png"
     },
     {
-      "name": "EpicGames",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/EpicGames.png"
-    },
-    {
-      "name": "F1TV",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/F1TV.png"
-    },
-    {
-      "name": "FR",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FR.png"
-    },
-    {
-      "name": "Facebook",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Facebook.png"
+      "name": "Enpass Password Manager",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Enpass_Password_Manager.png"
     },
     {
       "name": "Fileball",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Fileball.png"
     },
     {
-      "name": "Final",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Final.png"
+      "name": "Filen",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Filen.png"
     },
     {
-      "name": "GAME",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/GAME.png"
+      "name": "FollowRSS",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FollowRSS.png"
     },
     {
-      "name": "GLM",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/GLM.png"
+      "name": "Foodie",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Foodie.png"
     },
     {
       "name": "GitHub",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/GitHub.png"
     },
     {
-      "name": "Global",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Global.png"
-    },
-    {
-      "name": "Gmail",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Gmail.png"
-    },
-    {
       "name": "Google",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Google.png"
     },
     {
-      "name": "GoogleAI",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/GoogleAI.png"
-    },
-    {
-      "name": "GoogleDrive",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/GoogleDrive.png"
-    },
-    {
-      "name": "GoogleMaps",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/GoogleMaps.png"
-    },
-    {
-      "name": "GoogleNews",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/GoogleNews.png"
-    },
-    {
-      "name": "GooglePhotos",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/GooglePhotos.png"
-    },
-    {
-      "name": "GooglePlay",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/GooglePlay.png"
-    },
-    {
-      "name": "GoogleVoice",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/GoogleVoice.png"
+      "name": "Google Gemini",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/GoogleGemini.png"
     },
     {
       "name": "Grok",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Grok.png"
     },
     {
-      "name": "HBO",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HBO.png"
+      "name": "Grow",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Grow.png"
     },
     {
-      "name": "HBOMax",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HBOMax.png"
+      "name": "HTTPDNS",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HTTPDNS.png"
     },
     {
-      "name": "HK",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HK.png"
+      "name": "Happy:Days",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HappyDays.png"
     },
     {
-      "name": "HOYTV",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HOYTV.png"
+      "name": "Hong Kong Toolbar",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HongKongToolbar.png"
     },
     {
-      "name": "Hulu",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Hulu.png"
+      "name": "IPATool",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/IPATool.png"
     },
     {
-      "name": "Infuse",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Infuse.png"
+      "name": "IT之家",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/IThome.png"
     },
     {
       "name": "Instagram",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Instagram.png"
     },
     {
-      "name": "JD",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/JD.png"
+      "name": "Instapaper",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Instapaper.png"
     },
     {
-      "name": "JP",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/JP.png"
+      "name": "JavaScript转换器",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/JavaScriptConverter.png"
     },
     {
-      "name": "Jellyfin",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Jellyfin.png"
+      "name": "KOOK",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KOOK.png"
     },
     {
-      "name": "JioHotstar",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/JioHotstar.png"
-    },
-    {
-      "name": "KKBOX",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KKBOX.png"
-    },
-    {
-      "name": "KR",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KR.png"
-    },
-    {
-      "name": "KakaoTalk",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KakaoTalk.png"
-    },
-    {
-      "name": "KaraokeDAM",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KaraokeDAM.png"
+      "name": "Keep",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Keep.png"
     },
     {
       "name": "Kimi",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Kimi.png"
     },
     {
-      "name": "Kwai",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Kwai.png"
+      "name": "Line",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Line.png"
     },
     {
-      "name": "LINE",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/LINE.png"
+      "name": "Loon",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Loon.png"
     },
     {
-      "name": "LINETV",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/LINETV.png"
+      "name": "Microsoft Copilot",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MicrosoftCopilot.png"
     },
     {
-      "name": "Lark",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Lark.png"
-    },
-    {
-      "name": "Lemino",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Lemino.png"
-    },
-    {
-      "name": "LiTV",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/LiTV.png"
-    },
-    {
-      "name": "LineTV",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/LineTV.png"
-    },
-    {
-      "name": "LinkedIn",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/LinkedIn.png"
-    },
-    {
-      "name": "MO",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MO.png"
-    },
-    {
-      "name": "MangoTV",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MangoTV.png"
-    },
-    {
-      "name": "Manus",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Manus.png"
-    },
-    {
-      "name": "Meituan",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Meituan.png"
-    },
-    {
-      "name": "MeituanFoodDelivery",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MeituanFoodDelivery.png"
-    },
-    {
-      "name": "Messenger",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Messenger.png"
-    },
-    {
-      "name": "Meta",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Meta.png"
-    },
-    {
-      "name": "Microsoft",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Microsoft.png"
-    },
-    {
-      "name": "Migu",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Migu.png"
-    },
-    {
-      "name": "MiniMax",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MiniMax.png"
-    },
-    {
-      "name": "Muse",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Muse.png"
-    },
-    {
-      "name": "MusicJapan",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MusicJapan.png"
-    },
-    {
-      "name": "Musixmatch",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Musixmatch.png"
-    },
-    {
-      "name": "MyVideo",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MyVideo.png"
-    },
-    {
-      "name": "NBA",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NBA.png"
-    },
-    {
-      "name": "NBC",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NBC.png"
-    },
-    {
-      "name": "NBCUniversal",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NBCUniversal.png"
-    },
-    {
-      "name": "NHK",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NHK.png"
-    },
-    {
-      "name": "NetEase",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NetEase.png"
-    },
-    {
-      "name": "NetEaseCloudMusic",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NetEaseCloudMusic.png"
-    },
-    {
-      "name": "NetEaseMail",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NetEaseMail.png"
-    },
-    {
-      "name": "NeteaseMusic",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NeteaseMusic.png"
+      "name": "Mistral AI",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MistralAI.png"
     },
     {
       "name": "Netflix",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Netflix.png"
     },
     {
-      "name": "Niconico",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Niconico.png"
+      "name": "Nicegram",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Nicegram.png"
     },
     {
-      "name": "Nintendo",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Nintendo.png"
+      "name": "Nike",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Nike.png"
     },
     {
-      "name": "Notion",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Notion.png"
+      "name": "Notability",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Notability.png"
     },
     {
-      "name": "NousResearch",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NousResearch.png"
-    },
-    {
-      "name": "NowE",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NowE.png"
+      "name": "OKOK",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/OKOK.png"
     },
     {
       "name": "OKX",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/OKX.png"
     },
     {
-      "name": "Obsidian",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Obsidian.png"
+      "name": "OneKey",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/OneKey.png"
     },
     {
-      "name": "OneDrive",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/OneDrive.png"
+      "name": "Oopz",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Oopz.png"
     },
     {
-      "name": "OpenAI",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/OpenAI.png"
+      "name": "PDF点睛",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PDF_Expert.png"
     },
     {
-      "name": "Outlook",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Outlook.png"
+      "name": "PICOOC",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PICOOC.png"
     },
     {
-      "name": "PCCW",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PCCW.png"
-    },
-    {
-      "name": "PLUS",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PLUS.png"
-    },
-    {
-      "name": "Pandora",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Pandora.png"
-    },
-    {
-      "name": "Paramount",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Paramount.png"
-    },
-    {
-      "name": "ParamountPlus",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ParamountPlus.png"
+      "name": "Paramount+",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Paramount%2B.png"
     },
     {
       "name": "PayPal",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PayPal.png"
     },
     {
-      "name": "Paypal",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Paypal.png"
+      "name": "Picsart",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Picsart.png"
     },
     {
-      "name": "Peacock",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Peacock.png"
-    },
-    {
-      "name": "Perplexity",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Perplexity.png"
-    },
-    {
-      "name": "PhoenixVideo",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PhoenixVideo.png"
-    },
-    {
-      "name": "Pinduoduo",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Pinduoduo.png"
+      "name": "PikPak",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PikPak.png"
     },
     {
       "name": "Pinterest",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Pinterest.png"
     },
     {
-      "name": "PlayStation",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PlayStation.png"
-    },
-    {
-      "name": "Plex",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Plex.png"
-    },
-    {
-      "name": "Poe",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Poe.png"
-    },
-    {
-      "name": "Pornhub",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Pornhub.png"
-    },
-    {
-      "name": "PrimeVideo",
+      "name": "Prime Video",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PrimeVideo.png"
+    },
+    {
+      "name": "ProCamera",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ProCamera.png"
+    },
+    {
+      "name": "Proton Calendar",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ProtonCalendar.png"
+    },
+    {
+      "name": "Proton Drive",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ProtonDrive.png"
+    },
+    {
+      "name": "Proton Mail",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ProtonMail.png"
+    },
+    {
+      "name": "Proton Pass",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ProtonPass.png"
+    },
+    {
+      "name": "Proton VPN",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ProtonVPN.png"
     },
     {
       "name": "QQ",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/QQ.png"
     },
     {
-      "name": "QQMail",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/QQMail.png"
-    },
-    {
-      "name": "QQMusic",
+      "name": "QQ音乐",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/QQMusic.png"
     },
     {
-      "name": "Qobuz",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Qobuz.png"
-    },
-    {
-      "name": "Qwen",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Qwen.png"
-    },
-    {
-      "name": "RU",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/RU.png"
-    },
-    {
-      "name": "Radiko",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Radiko.png"
-    },
-    {
-      "name": "RakutenTV",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/RakutenTV.png"
-    },
-    {
-      "name": "RedBullTV",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/RedBullTV.png"
+      "name": "RQrun",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/RQrun.png"
     },
     {
       "name": "Reddit",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Reddit.png"
     },
     {
-      "name": "RockstarGames",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/RockstarGames.png"
+      "name": "ReelShort",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ReelShort.png"
     },
     {
-      "name": "Roundrobin",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Roundrobin.png"
+      "name": "RevenueCat",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/RevenueCat.png"
     },
     {
-      "name": "SG",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SG.png"
+      "name": "Roborock",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Roborock.png"
     },
     {
-      "name": "SINA",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SINA.png"
+      "name": "Safari",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Safari.png"
     },
     {
-      "name": "SONY",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SONY.png"
+      "name": "Scanner Pro",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Scanner_Pro.png"
     },
     {
-      "name": "SOOP",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SOOP.png"
+      "name": "Script-Hub",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Script-Hub.png"
     },
     {
-      "name": "SSID",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SSID.png"
+      "name": "Signal",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Signal.png"
     },
     {
-      "name": "SiriAI",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SiriAI.png"
-    },
-    {
-      "name": "Snapchat",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Snapchat.png"
+      "name": "Sofascore",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Sofascore.png"
     },
     {
       "name": "Soul",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Soul.png"
     },
     {
-      "name": "SoundCloud",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SoundCloud.png"
-    },
-    {
-      "name": "SpaceXAI",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SpaceXAI.png"
+      "name": "Spark",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Spark.png"
     },
     {
       "name": "Speedtest",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Speedtest.png"
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/OoklaSpeedtest.png"
     },
     {
       "name": "Spotify",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Spotify.png"
     },
     {
-      "name": "Static",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Static.png"
+      "name": "Stay",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Stay.png"
     },
     {
-      "name": "Streaming",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Streaming.png"
-    },
-    {
-      "name": "StreamingCN",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/StreamingCN.png"
-    },
-    {
-      "name": "StreamingSE",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/StreamingSE.png"
+      "name": "Sub-Store",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Sub-Store.png"
     },
     {
       "name": "Switch",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Switch.png"
     },
     {
-      "name": "TELASA",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TELASA.png"
+      "name": "Talkatone",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Talkatone.png"
     },
     {
-      "name": "TH",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TH.png"
-    },
-    {
-      "name": "TIDAL",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TIDAL.png"
-    },
-    {
-      "name": "TMDB",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TMDB.png"
-    },
-    {
-      "name": "TR",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TR.png"
-    },
-    {
-      "name": "TVer",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TVer.png"
-    },
-    {
-      "name": "TW",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TW.png"
-    },
-    {
-      "name": "Taobao",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Taobao.png"
-    },
-    {
-      "name": "TaobaoShangou",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TaobaoShangou.png"
+      "name": "TapTap",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TapTap.png"
     },
     {
       "name": "Telegram",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Telegram.png"
     },
     {
-      "name": "TencentCloud",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TencentCloud.png"
-    },
-    {
-      "name": "TencentVideo",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TencentVideo.png"
+      "name": "TeraBox",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TeraBox.png"
     },
     {
       "name": "TestFlight",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TestFlight.png"
     },
     {
-      "name": "Threads",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Threads.png"
-    },
-    {
-      "name": "Tieba",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Tieba.png"
-    },
-    {
       "name": "TikTok",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TikTok.png"
     },
     {
-      "name": "Tubi",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Tubi.png"
+      "name": "TubeMax",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TubeMax.png"
     },
     {
-      "name": "Twitch",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Twitch.png"
+      "name": "Tumblr",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Tumblr.png"
     },
     {
-      "name": "Twitter",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Twitter.png"
+      "name": "Uki",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Uki.png"
+    },
+    {
+      "name": "UpNote",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/UpNote.png"
+    },
+    {
+      "name": "VVebo",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/VVebo.png"
+    },
+    {
+      "name": "WPS",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WPS.png"
+    },
+    {
+      "name": "WPS文档",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WPS_Documents.png"
+    },
+    {
+      "name": "WakeUp课程表",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WakeupSchedule.png"
+    },
+    {
+      "name": "WebDAV",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WebDAV.png"
+    },
+    {
+      "name": "Wind金融终端",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WindInfo.png"
+    },
+    {
+      "name": "X",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/X.png"
+    },
+    {
+      "name": "Xmind",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Xmind.png"
+    },
+    {
+      "name": "YY",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YY_Voice.png"
+    },
+    {
+      "name": "YY语音",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YYVoiceTool.png"
+    },
+    {
+      "name": "Yealico",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Yealico.png"
+    },
+    {
+      "name": "YouTube",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YouTube.png"
+    },
+    {
+      "name": "YouTube Music",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YouTubeMusic.png"
+    },
+    {
+      "name": "ZAKER",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ZAKER.png"
+    },
+    {
+      "name": "e充电",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/EasyCharge.png"
+    },
+    {
+      "name": "giffgaff",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/giffgaff.png"
+    },
+    {
+      "name": "一刻相册",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/BaiduPhoto.png"
+    },
+    {
+      "name": "一甜相机",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Yitian.png"
+    },
+    {
+      "name": "一键抠图",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/OneClickCutout.png"
+    },
+    {
+      "name": "七猫小说",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SevenCat.png"
+    },
+    {
+      "name": "万年历",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/iReaderCityZHWNL.png"
+    },
+    {
+      "name": "下厨房",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/XiaChuFang.png"
+    },
+    {
+      "name": "两步路户外助手",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/2bulu.png"
+    },
+    {
+      "name": "中华万年历",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/EtouchEcalendar.png"
+    },
+    {
+      "name": "中国人保",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PICC_Insurance.png"
+    },
+    {
+      "name": "中国天气",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WeatherChina.png"
+    },
+    {
+      "name": "中国电信",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ChinaTetlcom.png"
+    },
+    {
+      "name": "中国移动",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ChinaMobile.png"
+    },
+    {
+      "name": "中国移动云盘",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/mobileClouds.png"
+    },
+    {
+      "name": "中国联通",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ChinaUnicom.png"
+    },
+    {
+      "name": "丰巢",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FC_Box.png"
+    },
+    {
+      "name": "乐播投屏",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TV_Assistant.png"
+    },
+    {
+      "name": "书旗小说",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ShuQiCenterReader.png"
+    },
+    {
+      "name": "云闪付",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/UnionPay.png"
+    },
+    {
+      "name": "云鲸智能",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NarwelRobots.png"
+    },
+    {
+      "name": "京东",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/JD.png"
+    },
+    {
+      "name": "京东外卖",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/JDWaimai.png"
+    },
+    {
+      "name": "京东金融",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/JDJinRong.png"
+    },
+    {
+      "name": "亲宝宝",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Qbb.png"
+    },
+    {
+      "name": "人人追剧",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/EveryoneVideo.png"
+    },
+    {
+      "name": "什么值得买",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/smzdm.png"
+    },
+    {
+      "name": "他趣",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Taqu.png"
+    },
+    {
+      "name": "优酷视频",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YouKu_Video.png"
+    },
+    {
+      "name": "健康160",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/91160.png"
+    },
+    {
+      "name": "催眠大师",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Hypnotist.png"
+    },
+    {
+      "name": "全民K歌",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/QQKSong.png"
+    },
+    {
+      "name": "凤凰新闻",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ifengNews.png"
+    },
+    {
+      "name": "创维智慧云",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SkyworthDigitalPicamera.png"
+    },
+    {
+      "name": "前程无忧",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/51Job.png"
+    },
+    {
+      "name": "剑网三无界",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SeasunJX3.png"
+    },
+    {
+      "name": "医考帮",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YiKaoBang.png"
+    },
+    {
+      "name": "半次元",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Bcy.png"
+    },
+    {
+      "name": "华住会",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HantingHotels.png"
+    },
+    {
+      "name": "华尔街见闻",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FinanceNews.png"
+    },
+    {
+      "name": "南网在线",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/CSG.png"
+    },
+    {
+      "name": "口袋壁纸",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ShoujiDesk.png"
+    },
+    {
+      "name": "叮咚买菜",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DingdongMaicai.png"
+    },
+    {
+      "name": "可莉",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KeLee.png"
+    },
+    {
+      "name": "向日葵",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/OraySunlogin.png"
+    },
+    {
+      "name": "启信宝",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/QiXinBao.png"
+    },
+    {
+      "name": "和平营地",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PUBGMHD_Bible.png"
+    },
+    {
+      "name": "哔哩哔哩",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Bilibili.png"
+    },
+    {
+      "name": "哔哩哔哩漫画",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/BiliComic.png"
+    },
+    {
+      "name": "唱吧",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Changba.png"
+    },
+    {
+      "name": "喜马拉雅",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Himalaya.png"
+    },
+    {
+      "name": "图怪兽",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TuGuaiShou.png"
+    },
+    {
+      "name": "堆糖",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DuiTang.png"
+    },
+    {
+      "name": "墨迹天气",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MojiWeather.png"
+    },
+    {
+      "name": "多屏互动",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TCLnScreen.png"
+    },
+    {
+      "name": "大姨妈月经期助手",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Dayima.png"
+    },
+    {
+      "name": "大麦",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Damai.png"
+    },
+    {
+      "name": "天天跳绳",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/CrazyRope.png"
+    },
+    {
+      "name": "天气",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AppleWeather.png"
+    },
+    {
+      "name": "天气通",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TianQiTong.png"
+    },
+    {
+      "name": "天气预报",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/iReaderCityWeather.png"
+    },
+    {
+      "name": "天猫校园",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TmallCampus.png"
+    },
+    {
+      "name": "央视频",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YangShiPin.png"
+    },
+    {
+      "name": "夸克",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/QuarkBrowser.png"
+    },
+    {
+      "name": "夸克扫描王",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/QuarkScanking.png"
+    },
+    {
+      "name": "好轻",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YunmaiScale.png"
+    },
+    {
+      "name": "威锋",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WPForum.png"
+    },
+    {
+      "name": "字节跳动广告",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ByteDanceAd.png"
+    },
+    {
+      "name": "学习通",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ChaoXingStudy.png"
+    },
+    {
+      "name": "完美世界电竞",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PerfectWorldEsport.png"
+    },
+    {
+      "name": "宝宝树孕育",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/BabyTree.png"
+    },
+    {
+      "name": "小喵看书",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MiaoRead.png"
+    },
+    {
+      "name": "小宇宙",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/CosmosPodcast.png"
+    },
+    {
+      "name": "小店掌柜",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ShopKeeperAdmin.png"
+    },
+    {
+      "name": "小桔充电",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/XiaojukejiCharge.png"
+    },
+    {
+      "name": "小白智慧打印",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/XiaobaiPrint.png"
+    },
+    {
+      "name": "小睡眠",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HeartideBrainWave.png"
+    },
+    {
+      "name": "小米音箱",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/XiaomiSpeaker.png"
+    },
+    {
+      "name": "小红书",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/RedPaper.png"
+    },
+    {
+      "name": "小蚕霸王餐",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/XiaoCan.png"
+    },
+    {
+      "name": "小象买菜",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/iMaiCai.png"
+    },
+    {
+      "name": "小黑盒",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/XiaoHeiHe.png"
+    },
+    {
+      "name": "帆书",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KebidaDushu.png"
+    },
+    {
+      "name": "广告拦截",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/RemoveAds.png"
+    },
+    {
+      "name": "库街区",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KuroBBS.png"
+    },
+    {
+      "name": "彩云天气",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ColorfulClouds.png"
+    },
+    {
+      "name": "彩云天气Pro",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ColorfulCloudsPro.png"
+    },
+    {
+      "name": "得物",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Dewu.png"
+    },
+    {
+      "name": "得间小说",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/iReaderDejian.png"
+    },
+    {
+      "name": "微信",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Weixin.png"
+    },
+    {
+      "name": "微信小程序",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WeixinMiniPrograms.png"
+    },
+    {
+      "name": "微博",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Weibo.png"
+    },
+    {
+      "name": "微博轻享版",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Weibo_intl.png"
+    },
+    {
+      "name": "微店",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Weidian.png"
+    },
+    {
+      "name": "微脉圈",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Weimai.png"
+    },
+    {
+      "name": "必应",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Bing.png"
+    },
+    {
+      "name": "快对",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KuaiDuiZuoYe.png"
+    },
+    {
+      "name": "快影",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KwaiVideoeditor.png"
+    },
+    {
+      "name": "快手",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KuaiShou.png"
+    },
+    {
+      "name": "快看漫画",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KuaiKanComic.png"
+    },
+    {
+      "name": "快递100",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KuaiDi100.png"
+    },
+    {
+      "name": "悟空浏览器",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WukongBrowser.png"
+    },
+    {
+      "name": "慧生活798",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SmartLife.png"
+    },
+    {
+      "name": "懒人听书",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/LazyAudio.png"
+    },
+    {
+      "name": "成分喵",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ChengFenMiao.png"
+    },
+    {
+      "name": "拼多多",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PinDuoDuo.png"
+    },
+    {
+      "name": "挖财记账",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WaCaiJiZhang.png"
+    },
+    {
+      "name": "挖财记账",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Wacai.png"
+    },
+    {
+      "name": "掌上公交",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SouguMyBus.png"
+    },
+    {
+      "name": "掌上无畏契约",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ValorantBible.png"
+    },
+    {
+      "name": "掌上穿越火线",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/CF_Bible.png"
+    },
+    {
+      "name": "掌上英雄联盟",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/LOL_Bible.png"
+    },
+    {
+      "name": "掌阅",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/iReader.png"
+    },
+    {
+      "name": "排班日历",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AxWorkSchedule.png"
+    },
+    {
+      "name": "推栏",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Daily.png"
+    },
+    {
+      "name": "搜图神器",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SearchPicture.png"
+    },
+    {
+      "name": "携程旅行",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Ctrip.png"
+    },
+    {
+      "name": "摩天轮",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FerrisWheel.png"
+    },
+    {
+      "name": "摩托范",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MotorFans.png"
+    },
+    {
+      "name": "支付宝",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AliPay.png"
+    },
+    {
+      "name": "收银通商户端",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ShouYinTongMerchant.png"
+    },
+    {
+      "name": "斗鱼",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Douyu.png"
+    },
+    {
+      "name": "新浪财经",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SinaStock.png"
+    },
+    {
+      "name": "无他相机",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WutaCamera.png"
+    },
+    {
+      "name": "易校园",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YiSchool.png"
+    },
+    {
+      "name": "智慧苏州",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SuZhouCitizenCard.png"
+    },
+    {
+      "name": "智联招聘",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ZhiLianZhaoPin.png"
+    },
+    {
+      "name": "智行火车票",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ZhixingHC.png"
+    },
+    {
+      "name": "智谱清言",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ZhiPuChatGLM.png"
+    },
+    {
+      "name": "最右",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ZuiYou.png"
+    },
+    {
+      "name": "最美壁纸",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/BestWall.png"
+    },
+    {
+      "name": "最美壁纸",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/iWallBiZhi.png"
+    },
+    {
+      "name": "有道云笔记",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YoudaoNote.png"
+    },
+    {
+      "name": "有道翻译官",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YoudaoTrans.png"
+    },
+    {
+      "name": "朴朴超市",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PuPuMall.png"
+    },
+    {
+      "name": "每日赛车",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MeiRiSaiChe.png"
+    },
+    {
+      "name": "比心",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Bixin.png"
+    },
+    {
+      "name": "比心",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Bixin.png"
+    },
+    {
+      "name": "比特球云盘",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/BitqiuPan.png"
+    },
+    {
+      "name": "汽水音乐",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SodaMusic.png"
+    },
+    {
+      "name": "汽车之家",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AutoHome.png"
+    },
+    {
+      "name": "沃尔玛",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Walmart.png"
+    },
+    {
+      "name": "河马剧场",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HMJC.png"
+    },
+    {
+      "name": "波点音乐",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/BodianMusic.png"
+    },
+    {
+      "name": "测测",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Cece.png"
+    },
+    {
+      "name": "海螺AI",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AIWanJuan.png"
+    },
+    {
+      "name": "海雀",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AlcidaeVideo.png"
+    },
+    {
+      "name": "淘宝",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Taobao.png"
+    },
+    {
+      "name": "淘票票",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Taopiaopiao.png"
+    },
+    {
+      "name": "深圳地铁",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SZMetro.png"
+    },
+    {
+      "name": "滴滴出行",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DiDi.png"
+    },
+    {
+      "name": "滴答出行",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DidaPincheTaxi.png"
+    },
+    {
+      "name": "漫客栈",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MKZ.png"
+    },
+    {
+      "name": "爱企查",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Aiinquiry.png"
+    },
+    {
+      "name": "爱啪思道",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Asspp.png"
+    },
+    {
+      "name": "爱奇艺",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/iQiYi_Video.png"
+    },
+    {
+      "name": "爱思助手",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/i4Assistant.png"
+    },
+    {
+      "name": "特来电",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/GotoCharge.png"
+    },
+    {
+      "name": "猫耳FM",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/CatEarFM.png"
+    },
+    {
+      "name": "王者营地",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HonorOfKingsGameHelper.png"
+    },
+    {
+      "name": "瑞幸咖啡",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/LuckinCoffee.png"
+    },
+    {
+      "name": "番茄小说",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DragonRead.png"
+    },
+    {
+      "name": "番茄畅听",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NovelFM.png"
+    },
+    {
+      "name": "百度",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Baidu.png"
+    },
+    {
+      "name": "百度地图",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/BaiduMap.png"
+    },
+    {
+      "name": "百度文库",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/BaiduWenku.png"
+    },
+    {
+      "name": "百度网盘",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/BaiduNetDisk.png"
+    },
+    {
+      "name": "百度翻译",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/BaiduTranslate.png"
+    },
+    {
+      "name": "百度输入法",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Baidu_input_method.png"
+    },
+    {
+      "name": "百词斩",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/BaiCiZhan.png"
+    },
+    {
+      "name": "皮皮虾",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PiPiXia.png"
+    },
+    {
+      "name": "盒马",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MrHema.png"
+    },
+    {
+      "name": "盖得排行",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/GuideRank.png"
+    },
+    {
+      "name": "直播吧",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Zhibo8.png"
+    },
+    {
+      "name": "省钱快报",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YueDanBa.png"
+    },
+    {
+      "name": "看天",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Kantian.png"
+    },
+    {
+      "name": "看家王",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ChatCam.png"
+    },
+    {
+      "name": "知乎",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Zhihu.png"
+    },
+    {
+      "name": "知识星球",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/UnnooQuan.png"
+    },
+    {
+      "name": "磁力宅播放器",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/XFuse.png"
+    },
+    {
+      "name": "稿定设计",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/GaoDing.png"
+    },
+    {
+      "name": "米家",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MiHome.png"
+    },
+    {
+      "name": "米游社",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/miHoYoBBS.png"
+    },
+    {
+      "name": "粉笔",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FenBi.png"
+    },
+    {
+      "name": "粉象生活",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FenxiangLife.png"
+    },
+    {
+      "name": "红果短剧",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PhoenixVideo.png"
+    },
+    {
+      "name": "纵横小说",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ZongHeng.png"
+    },
+    {
+      "name": "纷玩岛",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/LiveLab.png"
+    },
+    {
+      "name": "网易云音乐",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NeteaseCloudMusic.png"
+    },
+    {
+      "name": "网易大神",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NetEaseGodlike.png"
+    },
+    {
+      "name": "网易新闻",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NeteaseNews.png"
+    },
+    {
+      "name": "网易有道词典",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YoudaoDict.png"
+    },
+    {
+      "name": "网易邮箱大师",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MailMaster.png"
+    },
+    {
+      "name": "美丽修行",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Meizhixiuxing.png"
+    },
+    {
+      "name": "美团外卖",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MeiTuanItakeaway.png"
+    },
+    {
+      "name": "美图秀秀",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MeiTu.png"
+    },
+    {
+      "name": "美柚",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MeetYou.png"
+    },
+    {
+      "name": "美颜相机",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MeituMYXJ.png"
+    },
+    {
+      "name": "美食杰",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MeiShiJie.png"
+    },
+    {
+      "name": "联掌门户",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/LZMH.png"
+    },
+    {
+      "name": "胖乖生活",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PangguaiLife.png"
+    },
+    {
+      "name": "脉脉",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MaiMai.png"
+    },
+    {
+      "name": "腾讯动漫",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TencentComic.png"
+    },
+    {
+      "name": "腾讯广告",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TencentAd.png"
+    },
+    {
+      "name": "腾讯文档",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TXDocs.png"
+    },
+    {
+      "name": "腾讯视频",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Tencent_Video.png"
+    },
+    {
+      "name": "航旅纵横",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Umetrip.png"
+    },
+    {
+      "name": "节点检测工具",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Node_detection_tool.png"
+    },
+    {
+      "name": "芒果TV",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Mango_TV.png"
+    },
+    {
+      "name": "菜鸟",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Cainiao.png"
+    },
+    {
+      "name": "萌娘百科",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MoeGirlWiki.png"
+    },
+    {
+      "name": "萝卜快跑",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/RoboTaxi.png"
+    },
+    {
+      "name": "萤石云视频",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/VideoGo.png"
+    },
+    {
+      "name": "薄荷健康",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/BooHee.png"
+    },
+    {
+      "name": "虎嗅",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Huxiu.png"
+    },
+    {
+      "name": "虎扑",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HUPU.png"
+    },
+    {
+      "name": "蜗牛睡眠",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SnailSleep.png"
+    },
+    {
+      "name": "蜻蜓FM",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/QtingFM.png"
+    },
+    {
+      "name": "行者户外",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/OnTheWay.png"
+    },
+    {
+      "name": "视频盒子",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AnyVideoBox.png"
+    },
+    {
+      "name": "触站",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Chuzhan.png"
+    },
+    {
+      "name": "豆瓣",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DouBan.png"
+    },
+    {
+      "name": "豆瓣阅读",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DoubanRead.png"
+    },
+    {
+      "name": "贝壳找房",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Beike.png"
+    },
+    {
+      "name": "财新",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/CaixinMedia.png"
+    },
+    {
+      "name": "财联社",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/CaiLianShe.png"
+    },
+    {
+      "name": "贴吧",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Tieba.png"
+    },
+    {
+      "name": "起点读书",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/QiDian.png"
+    },
+    {
+      "name": "超级课程表",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MyFriday.png"
+    },
+    {
+      "name": "车来了",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Chelaile.png"
+    },
+    {
+      "name": "转转",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ZhuanZhuan.png"
+    },
+    {
+      "name": "迅雷",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/XunLei.png"
+    },
+    {
+      "name": "远程资源转换器",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/RemoteResourceConverter.png"
+    },
+    {
+      "name": "通义",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TongYi.png"
+    },
+    {
+      "name": "配音秀",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DubbingShow.png"
+    },
+    {
+      "name": "酷安",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/CoolApk.png"
+    },
+    {
+      "name": "酷我音乐",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Kuwo.png"
+    },
+    {
+      "name": "酷狗概念版",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KuGouYouth.png"
+    },
+    {
+      "name": "酷狗铃声",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KGRing.png"
+    },
+    {
+      "name": "酷狗音乐",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KuGou.png"
+    },
+    {
+      "name": "金十数据",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Jin10Data.png"
+    },
+    {
+      "name": "银行",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Bank.png"
+    },
+    {
+      "name": "闪动校园",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ShandongSchool.png"
+    },
+    {
+      "name": "闲鱼",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FleaMarket.png"
+    },
+    {
+      "name": "阅友",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Yueyou.png"
+    },
+    {
+      "name": "阿里云盘",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AliYunDrive.png"
+    },
+    {
+      "name": "陌陌",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MOMO.png"
+    },
+    {
+      "name": "随手记",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KingdeeMyMoney.png"
+    },
+    {
+      "name": "雪球",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Snowball.png"
+    },
+    {
+      "name": "韩小圈",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HanXiaoQuan.png"
+    },
+    {
+      "name": "顺丰速运",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SF-Express.png"
+    },
+    {
+      "name": "风鸟",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/RiskBird.png"
+    },
+    {
+      "name": "飞客",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FlyerTea.png"
+    },
+    {
+      "name": "飞常准",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FeeyoVeryZhunLITE.png"
+    },
+    {
+      "name": "飞猪旅行",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TaobaoTravel.png"
+    },
+    {
+      "name": "饿了么",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/eleme.png"
+    },
+    {
+      "name": "马克水印相机",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/marki.png"
+    },
+    {
+      "name": "马蜂窝",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MaFengWo.png"
+    },
+    {
+      "name": "驾校一点通",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/JiaXiaoDrive.png"
+    },
+    {
+      "name": "驾考宝典",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/JiaKaoBaoDian.png"
+    },
+    {
+      "name": "高德地图",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Amap.png"
+    },
+    {
+      "name": "AU",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AU.png"
+    },
+    {
+      "name": "CA",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/CA.png"
+    },
+    {
+      "name": "CN",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/CN.png"
+    },
+    {
+      "name": "DE",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DE.png"
+    },
+    {
+      "name": "FR",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FR.png"
+    },
+    {
+      "name": "HK",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HK.png"
+    },
+    {
+      "name": "JP",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/JP.png"
+    },
+    {
+      "name": "KR",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KR.png"
+    },
+    {
+      "name": "MO",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MO.png"
+    },
+    {
+      "name": "RU",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/RU.png"
+    },
+    {
+      "name": "SG",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SG.png"
+    },
+    {
+      "name": "TH",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TH.png"
+    },
+    {
+      "name": "TR",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TR.png"
+    },
+    {
+      "name": "TW",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TW.png"
     },
     {
       "name": "UK",
@@ -827,276 +1623,12 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/UN.png"
     },
     {
-      "name": "UNEXT",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/UNEXT.png"
-    },
-    {
       "name": "US",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/US.png"
     },
     {
-      "name": "Ubisoft",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Ubisoft.png"
-    },
-    {
-      "name": "UnionPay",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/UnionPay.png"
-    },
-    {
-      "name": "Urltest",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Urltest.png"
-    },
-    {
       "name": "VN",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/VN.png"
-    },
-    {
-      "name": "VideoMarket",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/VideoMarket.png"
-    },
-    {
-      "name": "Vimeo",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Vimeo.png"
-    },
-    {
-      "name": "Viu",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Viu.png"
-    },
-    {
-      "name": "WOWOW",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WOWOW.png"
-    },
-    {
-      "name": "WPS",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WPS.png"
-    },
-    {
-      "name": "Wallpaper",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Wallpaper.png"
-    },
-    {
-      "name": "WarnerBrosDiscovery",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WarnerBrosDiscovery.png"
-    },
-    {
-      "name": "WeChat",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WeChat.png"
-    },
-    {
-      "name": "Weibo",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Weibo.png"
-    },
-    {
-      "name": "WhatsApp",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WhatsApp.png"
-    },
-    {
-      "name": "Wikipedia",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Wikipedia.png"
-    },
-    {
-      "name": "X",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/X.png"
-    },
-    {
-      "name": "XD",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/XD.png"
-    },
-    {
-      "name": "Xbox",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Xbox.png"
-    },
-    {
-      "name": "Xiaoyuzhou",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Xiaoyuzhou.png"
-    },
-    {
-      "name": "YouTube",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YouTube.png"
-    },
-    {
-      "name": "YouTubeMusic",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YouTubeMusic.png"
-    },
-    {
-      "name": "Youku",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Youku.png"
-    },
-    {
-      "name": "Zhihu",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Zhihu.png"
-    },
-    {
-      "name": "Zoom",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Zoom.png"
-    },
-    {
-      "name": "bilibili",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/bilibili.png"
-    },
-    {
-      "name": "dAnimeStore",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/dAnimeStore.png"
-    },
-    {
-      "name": "discoveryPlus",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/discoveryPlus.png"
-    },
-    {
-      "name": "eBay",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/eBay.png"
-    },
-    {
-      "name": "friDayVideo",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/friDayVideo.png"
-    },
-    {
-      "name": "iCloud",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/iCloud.png"
-    },
-    {
-      "name": "iCloudPrivateRelay",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/iCloudPrivateRelay.png"
-    },
-    {
-      "name": "iQIYI",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/iQIYI.png"
-    },
-    {
-      "name": "mora",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/mora.png"
-    },
-    {
-      "name": "myTVSUPER",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/myTVSUPER.png"
-    },
-    {
-      "name": "pixiv",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/pixiv.png"
-    },
-    {
-      "name": "rednote",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/rednote.png"
-    },
-    {
-      "name": "xAI",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/xAI.png"
-    },
-    {
-      "name": "七猫小说",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E4%B8%83%E7%8C%AB%E5%B0%8F%E8%AF%B4.png"
-    },
-    {
-      "name": "中国电信",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E4%B8%AD%E5%9B%BD%E7%94%B5%E4%BF%A1.png"
-    },
-    {
-      "name": "中国移动",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E4%B8%AD%E5%9B%BD%E7%A7%BB%E5%8A%A8.png"
-    },
-    {
-      "name": "中国联通",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E4%B8%AD%E5%9B%BD%E8%81%94%E9%80%9A.png"
-    },
-    {
-      "name": "丰巢",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E4%B8%B0%E5%B7%A2.png"
-    },
-    {
-      "name": "京东",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E4%BA%AC%E4%B8%9C.png"
-    },
-    {
-      "name": "叮咚买菜",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E5%8F%AE%E5%92%9A%E4%B9%B0%E8%8F%9C.png"
-    },
-    {
-      "name": "喜马拉雅",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E5%96%9C%E9%A9%AC%E6%8B%89%E9%9B%85.png"
-    },
-    {
-      "name": "夸克",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E5%A4%B8%E5%85%8B.png"
-    },
-    {
-      "name": "得物",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E5%BE%97%E7%89%A9.png"
-    },
-    {
-      "name": "快手",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E5%BF%AB%E6%89%8B.png"
-    },
-    {
-      "name": "携程旅行",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E6%90%BA%E7%A8%8B%E6%97%85%E8%A1%8C.png"
-    },
-    {
-      "name": "智行火车票",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E6%99%BA%E8%A1%8C%E7%81%AB%E8%BD%A6%E7%A5%A8.png"
-    },
-    {
-      "name": "滴滴出行",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E6%BB%B4%E6%BB%B4%E5%87%BA%E8%A1%8C.png"
-    },
-    {
-      "name": "瑞幸咖啡",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E7%91%9E%E5%B9%B8%E5%92%96%E5%95%A1.png"
-    },
-    {
-      "name": "番茄小说",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E7%95%AA%E8%8C%84%E5%B0%8F%E8%AF%B4.png"
-    },
-    {
-      "name": "百度地图",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E7%99%BE%E5%BA%A6%E5%9C%B0%E5%9B%BE.png"
-    },
-    {
-      "name": "盒马",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E7%9B%92%E9%A9%AC.png"
-    },
-    {
-      "name": "网易新闻",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E7%BD%91%E6%98%93%E6%96%B0%E9%97%BB.png"
-    },
-    {
-      "name": "美团外卖",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E7%BE%8E%E5%9B%A2%E5%A4%96%E5%8D%96.png"
-    },
-    {
-      "name": "菜鸟",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E8%8F%9C%E9%B8%9F.png"
-    },
-    {
-      "name": "酷我音乐",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E9%85%B7%E6%88%91%E9%9F%B3%E4%B9%90.png"
-    },
-    {
-      "name": "酷狗音乐",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E9%85%B7%E7%8B%97%E9%9F%B3%E4%B9%90.png"
-    },
-    {
-      "name": "闲鱼",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E9%97%B2%E9%B1%BC.png"
-    },
-    {
-      "name": "陌陌",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E9%99%8C%E9%99%8C.png"
-    },
-    {
-      "name": "顺丰速运",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E9%A1%BA%E4%B8%B0%E9%80%9F%E8%BF%90.png"
-    },
-    {
-      "name": "飞猪旅行",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E9%A3%9E%E7%8C%AA%E6%97%85%E8%A1%8C.png"
-    },
-    {
-      "name": "饿了么",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E9%A5%BF%E4%BA%86%E4%B9%88.png"
-    },
-    {
-      "name": "高德地图",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/%E9%AB%98%E5%BE%B7%E5%9C%B0%E5%9B%BE.png"
     }
   ]
 }
