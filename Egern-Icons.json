@@ -2163,6 +2163,10 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Facebook.png"
     },
     {
+      "name": "Fallback",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Fallback.png"
+    },
+    {
       "name": "FeeyoVeryZhunLITE",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FeeyoVeryZhunLITE.png"
     },
