@@ -3,10 +3,6 @@
   "description": "QT的自用图标",
   "icons": [
     {
-      "name": "Adblock",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Adblock.png"
-    },
-    {
       "name": "Available",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Available.png"
     },
@@ -43,14 +39,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NeteaseMusic.png"
     },
     {
-      "name": "PLUS",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PLUS.png"
-    },
-    {
-      "name": "Paramount",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Paramount.png"
-    },
-    {
       "name": "Paypal",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Paypal.png"
     },
@@ -83,10 +71,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/StreamingSE.png"
     },
     {
-      "name": "Twitter",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Twitter.png"
-    },
-    {
       "name": "Urltest",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Urltest.png"
     },
@@ -101,10 +85,6 @@
     {
       "name": "12306",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/12306.png"
-    },
-    {
-      "name": "123NetWorkDisk",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/123NetWorkDisk.png"
     },
     {
       "name": "1919",
@@ -163,10 +143,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AWS.png"
     },
     {
-      "name": "Adobe",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Adobe.png"
-    },
-    {
       "name": "Adobe Creative Cloud",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Adobe_Creative_Cloud.png"
     },
@@ -199,10 +175,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AlibabaCloud.png"
     },
     {
-      "name": "AliyunDrive",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AliyunDrive.png"
-    },
-    {
       "name": "Amap",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Amap.png"
     },
@@ -215,16 +187,8 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AmazonMusic.png"
     },
     {
-      "name": "Anthropic",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Anthropic.png"
-    },
-    {
       "name": "AnyVideoBox",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AnyVideoBox.png"
-    },
-    {
-      "name": "App Store",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AppStore.png"
     },
     {
       "name": "AppRaven",
@@ -241,10 +205,6 @@
     {
       "name": "AppleBooks",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AppleBooks.png"
-    },
-    {
-      "name": "AppleFitnessPlus",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AppleFitnessPlus.png"
     },
     {
       "name": "AppleMusic",
@@ -387,10 +347,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/BodianMusic.png"
     },
     {
-      "name": "BooHee",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/BooHee.png"
-    },
-    {
       "name": "BoxJS",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/BoxJS.png"
     },
@@ -451,10 +407,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ChatCam.png"
     },
     {
-      "name": "ChatGPT",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ChatGPT.png"
-    },
-    {
       "name": "Chelaile",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Chelaile.png"
     },
@@ -463,20 +415,12 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ChengFenMiao.png"
     },
     {
-      "name": "ChinaMobile",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ChinaMobile.png"
-    },
-    {
       "name": "ChinaMobileCloudDrive",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ChinaMobileCloudDrive.png"
     },
     {
       "name": "ChinaTetlcom",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ChinaTetlcom.png"
-    },
-    {
-      "name": "ChinaUnicom",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ChinaUnicom.png"
     },
     {
       "name": "Chuzhan",
@@ -489,10 +433,6 @@
     {
       "name": "ColorfulClouds",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ColorfulClouds.png"
-    },
-    {
-      "name": "ColorfulCloudsPro",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ColorfulCloudsPro.png"
     },
     {
       "name": "CoolApk",
@@ -539,10 +479,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Prevent_DNS_Leaks.png"
     },
     {
-      "name": "DREAME",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DREAME.png"
-    },
-    {
       "name": "Daily",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Daily.png"
     },
@@ -571,20 +507,8 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DeepSeek.png"
     },
     {
-      "name": "Deezer",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Deezer.png"
-    },
-    {
-      "name": "Dewu",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Dewu.png"
-    },
-    {
       "name": "DiDi",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DiDi.png"
-    },
-    {
-      "name": "DidaPincheTaxi",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DidaPincheTaxi.png"
     },
     {
       "name": "DigitalHeartbeat",
@@ -597,18 +521,6 @@
     {
       "name": "DingdongMaicai",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DingdongMaicai.png"
-    },
-    {
-      "name": "Discord",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Discord.png"
-    },
-    {
-      "name": "Discovery+",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Discovery%2B.png"
-    },
-    {
-      "name": "Disney",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Disney.png"
     },
     {
       "name": "Disney+",
@@ -661,10 +573,6 @@
     {
       "name": "Dropbox",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Dropbox.png"
-    },
-    {
-      "name": "DubbingShow",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/DubbingShow.png"
     },
     {
       "name": "DuiTang",
@@ -727,16 +635,8 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FenBi.png"
     },
     {
-      "name": "FenxiangLife",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FenxiangLife.png"
-    },
-    {
       "name": "FerrisWheel",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FerrisWheel.png"
-    },
-    {
-      "name": "Fileball",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Fileball.png"
     },
     {
       "name": "Filen",
@@ -749,10 +649,6 @@
     {
       "name": "FleaMarket",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FleaMarket.png"
-    },
-    {
-      "name": "FlyerTea",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FlyerTea.png"
     },
     {
       "name": "FollowRSS",
@@ -771,10 +667,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/GLM.png"
     },
     {
-      "name": "GaoDing",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/GaoDing.png"
-    },
-    {
       "name": "GitHub",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/GitHub.png"
     },
@@ -785,10 +677,6 @@
     {
       "name": "Google",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Google.png"
-    },
-    {
-      "name": "Google Gemini",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/GoogleGemini.png"
     },
     {
       "name": "GoogleAI",
@@ -835,16 +723,8 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/GuideRank.png"
     },
     {
-      "name": "HBOMax",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HBOMax.png"
-    },
-    {
       "name": "HMJC",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HMJC.png"
-    },
-    {
-      "name": "HOYTV",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HOYTV.png"
     },
     {
       "name": "HTTPDNS",
@@ -893,14 +773,6 @@
     {
       "name": "Hypnotist",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Hypnotist.png"
-    },
-    {
-      "name": "IPATool",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/IPATool.png"
-    },
-    {
-      "name": "IThome",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/IThome.png"
     },
     {
       "name": "Infuse",
@@ -1007,16 +879,8 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KuaiDi100.png"
     },
     {
-      "name": "KuaiDuiZuoYe",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KuaiDuiZuoYe.png"
-    },
-    {
       "name": "KuaiKanComic",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KuaiKanComic.png"
-    },
-    {
-      "name": "KuaiShou",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/KuaiShou.png"
     },
     {
       "name": "KuroBBS",
@@ -1037,10 +901,6 @@
     {
       "name": "LINE",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/LINE.png"
-    },
-    {
-      "name": "LINETV",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/LINETV.png"
     },
     {
       "name": "LOL_Bible",
@@ -1065,10 +925,6 @@
     {
       "name": "LiTV",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/LiTV.png"
-    },
-    {
-      "name": "Line",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Line.png"
     },
     {
       "name": "LinkedIn",
@@ -1109,10 +965,6 @@
     {
       "name": "MangoTV",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MangoTV.png"
-    },
-    {
-      "name": "Mango_TV",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Mango_TV.png"
     },
     {
       "name": "Manus",
@@ -1195,10 +1047,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MoeGirlWiki.png"
     },
     {
-      "name": "MojiWeather",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MojiWeather.png"
-    },
-    {
       "name": "MotorFans",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/MotorFans.png"
     },
@@ -1235,10 +1083,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NBC.png"
     },
     {
-      "name": "NBCUniversal",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NBCUniversal.png"
-    },
-    {
       "name": "NHK",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NHK.png"
     },
@@ -1269,10 +1113,6 @@
     {
       "name": "NeteaseNews",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NeteaseNews.png"
-    },
-    {
-      "name": "Netflix",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Netflix.png"
     },
     {
       "name": "Nicegram",
@@ -1307,10 +1147,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NousResearch.png"
     },
     {
-      "name": "NovelFM",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NovelFM.png"
-    },
-    {
       "name": "NowE",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/NowE.png"
     },
@@ -1335,20 +1171,12 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/OneClickCutout.png"
     },
     {
-      "name": "OneDrive",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/OneDrive.png"
-    },
-    {
       "name": "OneKey",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/OneKey.png"
     },
     {
       "name": "OoklaSpeedtest",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/OoklaSpeedtest.png"
-    },
-    {
-      "name": "Oopz",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Oopz.png"
     },
     {
       "name": "OpenAI",
@@ -1361,10 +1189,6 @@
     {
       "name": "Outlook",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Outlook.png"
-    },
-    {
-      "name": "PCCW",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PCCW.png"
     },
     {
       "name": "PDF_Expert",
@@ -1395,10 +1219,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Paramount%2B.png"
     },
     {
-      "name": "ParamountPlus",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ParamountPlus.png"
-    },
-    {
       "name": "PayPal",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PayPal.png"
     },
@@ -1409,10 +1229,6 @@
     {
       "name": "PerfectWorldEsport",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PerfectWorldEsport.png"
-    },
-    {
-      "name": "Perplexity",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Perplexity.png"
     },
     {
       "name": "PhoenixVideo",
@@ -1435,10 +1251,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PinDuoDuo.png"
     },
     {
-      "name": "Pinduoduo",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Pinduoduo.png"
-    },
-    {
       "name": "Pinterest",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Pinterest.png"
     },
@@ -1457,18 +1269,6 @@
     {
       "name": "Pornhub",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Pornhub.png"
-    },
-    {
-      "name": "Prime Video",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PrimeVideo.png"
-    },
-    {
-      "name": "ProCamera",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ProCamera.png"
-    },
-    {
-      "name": "Proton Calendar",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ProtonCalendar.png"
     },
     {
       "name": "Proton Drive",
@@ -1515,24 +1315,8 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/QiDian.png"
     },
     {
-      "name": "QiXinBao",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/QiXinBao.png"
-    },
-    {
-      "name": "Qobuz",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Qobuz.png"
-    },
-    {
       "name": "QtingFM",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/QtingFM.png"
-    },
-    {
-      "name": "QuarkBrowser",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/QuarkBrowser.png"
-    },
-    {
-      "name": "QuarkScanking",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/QuarkScanking.png"
     },
     {
       "name": "Qwen",
@@ -1547,16 +1331,8 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Radiko.png"
     },
     {
-      "name": "RakutenTV",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/RakutenTV.png"
-    },
-    {
       "name": "RedBullTV",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/RedBullTV.png"
-    },
-    {
-      "name": "RedPaper",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/RedPaper.png"
     },
     {
       "name": "Reddit",
@@ -1595,10 +1371,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/RockstarGames.png"
     },
     {
-      "name": "SF-Express",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SF-Express.png"
-    },
-    {
       "name": "SINA",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SINA.png"
     },
@@ -1607,16 +1379,8 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SONY.png"
     },
     {
-      "name": "SOOP",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SOOP.png"
-    },
-    {
       "name": "SZMetro",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SZMetro.png"
-    },
-    {
-      "name": "Safari",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Safari.png"
     },
     {
       "name": "Scanner Pro",
@@ -1743,16 +1507,8 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TCLnScreen.png"
     },
     {
-      "name": "TELASA",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TELASA.png"
-    },
-    {
       "name": "TIDAL",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TIDAL.png"
-    },
-    {
-      "name": "TMDB",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TMDB.png"
     },
     {
       "name": "TV_Assistant",
@@ -1775,10 +1531,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Taobao.png"
     },
     {
-      "name": "TaobaoShangou",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TaobaoShangou.png"
-    },
-    {
       "name": "TaobaoTravel",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TaobaoTravel.png"
     },
@@ -1793,10 +1545,6 @@
     {
       "name": "Taqu",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Taqu.png"
-    },
-    {
-      "name": "Telegram",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Telegram.png"
     },
     {
       "name": "TencentAd",
@@ -1839,14 +1587,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Tieba.png"
     },
     {
-      "name": "TikTok",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TikTok.png"
-    },
-    {
-      "name": "TmallCampus",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TmallCampus.png"
-    },
-    {
       "name": "TongYi",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TongYi.png"
     },
@@ -1875,10 +1615,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/UNEXT.png"
     },
     {
-      "name": "Ubisoft",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Ubisoft.png"
-    },
-    {
       "name": "Uki",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Uki.png"
     },
@@ -1897,10 +1633,6 @@
     {
       "name": "UpNote",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/UpNote.png"
-    },
-    {
-      "name": "VVebo",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/VVebo.png"
     },
     {
       "name": "ValorantBible",
@@ -1939,10 +1671,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WPS_Documents.png"
     },
     {
-      "name": "WaCaiJiZhang",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WaCaiJiZhang.png"
-    },
-    {
       "name": "Wacai",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Wacai.png"
     },
@@ -1959,20 +1687,12 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Walmart.png"
     },
     {
-      "name": "WarnerBrosDiscovery",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WarnerBrosDiscovery.png"
-    },
-    {
       "name": "WeChat",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WeChat.png"
     },
     {
       "name": "WeatherChina",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WeatherChina.png"
-    },
-    {
-      "name": "WebDAV",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WebDAV.png"
     },
     {
       "name": "Weibo",
@@ -1989,14 +1709,6 @@
     {
       "name": "Weimai",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Weimai.png"
-    },
-    {
-      "name": "Weixin",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Weixin.png"
-    },
-    {
-      "name": "WeixinMiniPrograms",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/WeixinMiniPrograms.png"
     },
     {
       "name": "WhatsApp",
@@ -2023,10 +1735,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/X.png"
     },
     {
-      "name": "XD",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/XD.png"
-    },
-    {
       "name": "XFuse",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/XFuse.png"
     },
@@ -2035,16 +1743,8 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Xbox.png"
     },
     {
-      "name": "XiaChuFang",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/XiaChuFang.png"
-    },
-    {
       "name": "XiaoCan",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/XiaoCan.png"
-    },
-    {
-      "name": "XiaoHeiHe",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/XiaoHeiHe.png"
     },
     {
       "name": "XiaobaiPrint",
@@ -2091,10 +1791,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YiKaoBang.png"
     },
     {
-      "name": "YiSchool",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YiSchool.png"
-    },
-    {
       "name": "Yitian",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Yitian.png"
     },
@@ -2105,14 +1801,6 @@
     {
       "name": "YouTube",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YouTube.png"
-    },
-    {
-      "name": "YouTube Music",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YouTubeMusic.png"
-    },
-    {
-      "name": "YoudaoDict",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YoudaoDict.png"
     },
     {
       "name": "YoudaoNote",
@@ -2139,28 +1827,12 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/YunmaiScale.png"
     },
     {
-      "name": "ZAKER",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ZAKER.png"
-    },
-    {
-      "name": "ZhiLianZhaoPin",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ZhiLianZhaoPin.png"
-    },
-    {
-      "name": "ZhiPuChatGLM",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ZhiPuChatGLM.png"
-    },
-    {
       "name": "Zhibo8",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Zhibo8.png"
     },
     {
       "name": "Zhihu",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Zhihu.png"
-    },
-    {
-      "name": "ZhixingHC",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ZhixingHC.png"
     },
     {
       "name": "ZhuanZhuan",
@@ -2187,28 +1859,12 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/dAnimeStore.png"
     },
     {
-      "name": "discoveryPlus",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/discoveryPlus.png"
-    },
-    {
-      "name": "eBay",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/eBay.png"
-    },
-    {
       "name": "eleme",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/eleme.png"
     },
     {
       "name": "friDayVideo",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/friDayVideo.png"
-    },
-    {
-      "name": "giffgaff",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/giffgaff.png"
-    },
-    {
-      "name": "i4Assistant",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/i4Assistant.png"
     },
     {
       "name": "iCloud",
@@ -2227,10 +1883,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/iQIYI.png"
     },
     {
-      "name": "iQiYi_Video",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/iQiYi_Video.png"
-    },
-    {
       "name": "iReader",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/iReader.png"
     },
@@ -2247,24 +1899,12 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/iReaderDejian.png"
     },
     {
-      "name": "iWallBiZhi",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/iWallBiZhi.png"
-    },
-    {
-      "name": "ifengNews",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/ifengNews.png"
-    },
-    {
       "name": "marki",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/marki.png"
     },
     {
       "name": "miHoYoBBS",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/miHoYoBBS.png"
-    },
-    {
-      "name": "mobileClouds",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/mobileClouds.png"
     },
     {
       "name": "mora",
@@ -2315,10 +1955,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FR.png"
     },
     {
-      "name": "HK",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HK.png"
-    },
-    {
       "name": "JP",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/JP.png"
     },
@@ -2353,10 +1989,6 @@
     {
       "name": "UK",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/UK.png"
-    },
-    {
-      "name": "UN",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/UN.png"
     },
     {
       "name": "US",
