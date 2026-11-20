@@ -139,14 +139,8 @@ def main():
             else:
                 print(f"  -> No image duplicates (names similar but images different)")
     
-    # Step 4: Find orphaned files
-    json_filenames = set(
-        urllib.parse.unquote(icon['url'].split('/')[-1])
-        for icon in valid_icons
-    )
-    all_files = set(f.name for f in color_dir.glob('*.png'))
-    orphaned = all_files - json_filenames
-    print(f"\nOrphaned files: {len(orphaned)}")
+    # NO orphan deletion - removed because it was deleting files before JSON was updated
+    # (files restored via API appear as "orphaned" until JSON is updated in a separate commit)
     
     if dry_run:
         print(f"\n[DRY RUN] Would delete {len(files_to_delete)} files")
@@ -154,12 +148,6 @@ def main():
     
     # Delete files
     for filename in files_to_delete:
-        try:
-            (color_dir / filename).unlink()
-        except Exception as e:
-            print(f"  Failed: {filename}: {e}")
-    
-    for filename in orphaned:
         try:
             (color_dir / filename).unlink()
         except Exception as e:
@@ -175,7 +163,7 @@ def main():
     
     print(f"\n=== Summary ===")
     print(f"Final: {len(final_icons)} entries")
-    print(f"Deleted: {len(files_to_delete)} duplicates + {len(orphaned)} orphaned")
+    print(f"Deleted: {len(files_to_delete)} duplicates")
     
     return 0
 
