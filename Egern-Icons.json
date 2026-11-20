@@ -63,6 +63,10 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/SSID.png"
     },
     {
+      "name": "Shadowrocket",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Shadowrocket.png"
+    },
+    {
       "name": "Static",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Static.png"
     },
@@ -85,10 +89,6 @@
     {
       "name": "Urltest",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Urltest.png"
-    },
-    {
-      "name": "Shadowrocket",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Shadowrocket.png"
     },
     {
       "name": "1.1.1.1",
