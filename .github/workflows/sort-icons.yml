@@ -15,6 +15,8 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
       
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -25,63 +27,17 @@ jobs:
         run: pip install Pillow
       
       - name: Sort icons
-        run: |
-          python3 << 'PYEOF'
-          import json
-          import urllib.request
-          from PIL import Image
-          import io
-          import base64
-          
-          FLAG_NAMES = {"AU", "CA", "CN", "China", "DE", "FR", "HK", "JP", "KR", "MO", "RU", "SG", "TH", "TR", "TW", "UK", "UN", "US", "VN"}
-          
-          def get_opacity(url):
-              try:
-                  req = urllib.request.Request(url, method='GET')
-                  req.add_header('User-Agent', 'Mozilla/5.0')
-                  with urllib.request.urlopen(req, timeout=10) as resp:
-                      img = Image.open(io.BytesIO(resp.read()))
-                      if img.mode != 'RGBA':
-                          img = img.convert('RGBA')
-                      pixels = img.getdata()
-                      opaque = sum(1 for p in pixels if p[3] > 128)
-                      return opaque / len(pixels) * 100
-              except:
-                  return 100.0
-          
-          with open('Egern-Icons.json', 'r', encoding='utf-8') as f:
-              data = json.load(f)
-          
-          icons = data['icons']
-          transparent = []
-          rounded = []
-          flags = []
-          
-          for icon in icons:
-              name = icon['name']
-              if name in FLAG_NAMES:
-                  flags.append(icon)
-              elif get_opacity(icon['url']) < 70:
-                  transparent.append(icon)
-              else:
-                  rounded.append(icon)
-          
-          transparent.sort(key=lambda x: x['name'])
-          rounded.sort(key=lambda x: x['name'])
-          flags_sorted = [f for f in flags if f['name'] == 'China'] + sorted([f for f in flags if f['name'] != 'China'], key=lambda x: x['name'])
-          
-          data['icons'] = transparent + rounded + flags_sorted
-          
-          with open('Egern-Icons.json', 'w', encoding='utf-8') as f:
-              json.dump(data, f, ensure_ascii=False, indent=2)
-          
-          print(f"Sorted: {len(transparent)} transparent, {len(rounded)} rounded, {len(flags)} flags")
-          PYEOF
+        run: python3 scripts/sort_icons.py
       
       - name: Commit and push if changed
         run: |
           git config --local user.email "wayref@users.noreply.github.com"
           git config --local user.name "wayref"
           git add Egern-Icons.json
-          git diff --quiet && git diff --staged --quiet || git commit -m "Auto-sort icons: transparent first, rounded middle, flags last"
-          git push
+          if git diff --quiet && git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Auto-sort icons: transparent first, rounded middle, flags last"
+            git pull --rebase origin main
+            git push
+          fi
