@@ -1957,6 +1957,22 @@
     {
       "name": "VN",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/VN.png"
+    },
+    {
+      "name": "HK",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HK.png"
+    },
+    {
+      "name": "Perplexity",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Perplexity.png"
+    },
+    {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Telegram.png"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TikTok.png"
     }
   ]
 }
