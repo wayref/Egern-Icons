@@ -1199,6 +1199,10 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PerfectWorldEsport.png"
     },
     {
+      "name": "Perplexity",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Perplexity.png"
+    },
+    {
       "name": "PhoenixVideo",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/PhoenixVideo.png"
     },
@@ -1515,6 +1519,10 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Taqu.png"
     },
     {
+      "name": "Telegram",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Telegram.png"
+    },
+    {
       "name": "TencentAd",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TencentAd.png"
     },
@@ -1553,6 +1561,10 @@
     {
       "name": "Tieba",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Tieba.png"
+    },
+    {
+      "name": "TikTok",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TikTok.png"
     },
     {
       "name": "TongYi",
@@ -1915,6 +1927,10 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/FR.png"
     },
     {
+      "name": "HK",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HK.png"
+    },
+    {
       "name": "JP",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/JP.png"
     },
@@ -1957,22 +1973,6 @@
     {
       "name": "VN",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/VN.png"
-    },
-    {
-      "name": "HK",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/HK.png"
-    },
-    {
-      "name": "Perplexity",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Perplexity.png"
-    },
-    {
-      "name": "Telegram",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/Telegram.png"
-    },
-    {
-      "name": "TikTok",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/TikTok.png"
     }
   ]
 }
