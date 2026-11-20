@@ -1,19 +1,16 @@
 #!/usr/bin/env python3
 """
-Clean up Egern-Icons repo - safe duplicate detection:
-1. Remove duplicate JSON entries (same URL)
-2. Remove name duplicates (normalize: remove _, -, spaces, lowercase)
-   - Catches TencentVideo vs Tencent_Video, WeChat vs Weixin (if same normalized name)
-3. Remove visually duplicate images (perceptual hash, Hamming distance <= 3)
-   - Conservative threshold to avoid false positives
-4. Remove orphaned files
-5. Remove broken entries
+Clean up Egern-Icons repo - user's approach:
+1. Group by similar names (normalized: remove _, -, spaces, lowercase)
+2. For each name group, check if images are the same (perceptual hash)
+3. Only delete if BOTH name AND image match
+
+This avoids deleting different apps that happen to look similar.
 
 Usage:
     python3 dedup_icons.py [--dry-run]
 """
 
-import os
 import sys
 import json
 import re
@@ -39,9 +36,8 @@ def hamming_distance(hash1, hash2):
     return sum(c1 != c2 for c1, c2 in zip(hash1, hash2))
 
 def normalize_name(name):
-    """Normalize name for comparison: remove _, -, spaces, lowercase."""
-    normalized = re.sub(r'[_\-\s]+', '', name.lower())
-    return normalized
+    """Normalize name: remove _, -, spaces, lowercase."""
+    return re.sub(r'[_\-\s]+', '', name.lower())
 
 def main():
     dry_run = '--dry-run' in sys.argv
@@ -52,32 +48,23 @@ def main():
     with open(json_path, 'r', encoding='utf-8') as f:
         data = json.load(f)
     
-    print(f"Original JSON entries: {len(data['icons'])}")
+    print(f"Original: {len(data['icons'])} icons")
     
-    # Step 1: Remove duplicate URLs
+    # Step 1: Remove duplicate URLs and broken entries
     seen_urls = set()
-    unique_icons = []
-    dup_url_count = 0
+    valid_icons = []
     for icon in data['icons']:
         if icon['url'] in seen_urls:
-            dup_url_count += 1
             continue
         seen_urls.add(icon['url'])
-        unique_icons.append(icon)
-    print(f"Step 1: Removed {dup_url_count} duplicate URLs")
-    
-    # Step 2: Remove broken entries
-    valid_icons = []
-    broken_count = 0
-    for icon in unique_icons:
         filename = urllib.parse.unquote(icon['url'].split('/')[-1])
         if not (color_dir / filename).exists():
-            broken_count += 1
             continue
         valid_icons.append(icon)
-    print(f"Step 2: Removed {broken_count} broken entries")
     
-    # Step 3: Find name duplicates (normalized)
+    print(f"After removing dup URLs and broken: {len(valid_icons)}")
+    
+    # Step 2: Group by normalized name
     name_groups = {}
     for icon in valid_icons:
         norm = normalize_name(icon['name'])
@@ -85,88 +72,81 @@ def main():
             name_groups[norm] = []
         name_groups[norm].append(icon)
     
-    name_dups = {k: v for k, v in name_groups.items() if len(v) > 1}
-    print(f"\nStep 3: Found {len(name_dups)} name duplicate groups")
+    # Only groups with multiple icons are candidates
+    candidate_groups = {k: v for k, v in name_groups.items() if len(v) > 1}
+    print(f"\nFound {len(candidate_groups)} name groups with duplicates")
     
-    # Step 4: Find visual duplicates (perceptual hash, distance <= 3 - CONSERVATIVE)
-    print(f"\nStep 4: Computing perceptual hashes...")
-    hashes = {}
-    for icon in valid_icons:
-        filename = urllib.parse.unquote(icon['url'].split('/')[-1])
-        h = perceptual_hash(color_dir / filename)
-        if h:
-            if h not in hashes:
-                hashes[h] = []
-            hashes[h].append(icon)
-    
-    # Find exact matches and near-matches (distance <= 3)
-    hash_list = list(hashes.keys())
-    visual_groups = []
-    visited = set()
-    
-    for i, h1 in enumerate(hash_list):
-        if h1 in visited:
-            continue
-        group = [h1]
-        visited.add(h1)
-        for h2 in hash_list[i+1:]:
-            if h2 in visited:
-                continue
-            if hamming_distance(h1, h2) <= 3:
-                group.append(h2)
-                visited.add(h2)
-        if len(group) > 1:
-            icons = []
-            for h in group:
-                icons.extend(hashes[h])
-            visual_groups.append(icons)
-    
-    print(f"  Found {len(visual_groups)} visual duplicate groups (distance <= 3)")
-    
-    # Combine groups
-    all_groups = list(name_dups.values()) + visual_groups
-    
-    # Deduplicate groups
-    seen_groups = set()
-    unique_groups = []
-    for group in all_groups:
-        key = frozenset(icon['name'] for icon in group)
-        if key not in seen_groups:
-            seen_groups.add(key)
-            unique_groups.append(group)
-    
-    print(f"\nTotal unique duplicate groups: {len(unique_groups)}")
-    
-    # For each group, keep one
-    def sort_key(icon):
-        name = icon['name']
-        is_english = all(ord(c) < 128 for c in name)
-        has_underscore = '_' in name
-        return (0 if is_english else 1, 1 if has_underscore else 0, len(name), name)
-    
+    # Step 3: For each name group, check if images are the same
     files_to_delete = []
     names_to_remove = set()
     
-    for group in unique_groups:
-        sorted_group = sorted(group, key=sort_key)
-        keep = sorted_group[0]
-        delete = sorted_group[1:]
-        print(f"\n  Group:")
-        print(f"    KEEP: {keep['name']}")
-        for icon in delete:
+    for norm_name, group in candidate_groups.items():
+        print(f"\nGroup '{norm_name}' ({len(group)} icons):")
+        for icon in group:
+            print(f"  - {icon['name']}")
+        
+        # Compute hashes for all icons in this group
+        hashes = {}
+        for icon in group:
             filename = urllib.parse.unquote(icon['url'].split('/')[-1])
-            print(f"    DELETE: {icon['name']} ({filename})")
-            files_to_delete.append(filename)
-            names_to_remove.add(icon['name'])
+            h = perceptual_hash(color_dir / filename)
+            if h:
+                hashes[icon['name']] = h
+        
+        # Find icons with same/very similar hash (distance <= 3)
+        # Group by hash similarity
+        visited = set()
+        for i, icon1 in enumerate(group):
+            if icon1['name'] in visited:
+                continue
+            if icon1['name'] not in hashes:
+                continue
+            
+            similar = [icon1]
+            visited.add(icon1['name'])
+            
+            for icon2 in group[i+1:]:
+                if icon2['name'] in visited:
+                    continue
+                if icon2['name'] not in hashes:
+                    continue
+                
+                dist = hamming_distance(hashes[icon1['name']], hashes[icon2['name']])
+                if dist <= 3:
+                    similar.append(icon2)
+                    visited.add(icon2['name'])
+            
+            if len(similar) > 1:
+                # Found duplicates within this name group
+                # Keep one (prefer English, no underscore, shortest)
+                def sort_key(icon):
+                    name = icon['name']
+                    is_english = all(ord(c) < 128 for c in name)
+                    has_underscore = '_' in name
+                    return (0 if is_english else 1, 1 if has_underscore else 0, len(name), name)
+                
+                sorted_similar = sorted(similar, key=sort_key)
+                keep = sorted_similar[0]
+                delete = sorted_similar[1:]
+                
+                print(f"  -> Duplicates found (same name + same image):")
+                print(f"     KEEP: {keep['name']}")
+                for icon in delete:
+                    filename = urllib.parse.unquote(icon['url'].split('/')[-1])
+                    print(f"     DELETE: {icon['name']} ({filename})")
+                    files_to_delete.append(filename)
+                    names_to_remove.add(icon['name'])
+            else:
+                print(f"  -> No image duplicates (names similar but images different)")
     
-    # Step 5: Find orphaned files
+    # Step 4: Find orphaned files
     json_filenames = set(
         urllib.parse.unquote(icon['url'].split('/')[-1])
         for icon in valid_icons
     )
     all_files = set(f.name for f in color_dir.glob('*.png'))
     orphaned = all_files - json_filenames
-    print(f"\nStep 5: Found {len(orphaned)} orphaned files")
+    print(f"\nOrphaned files: {len(orphaned)}")
     
     if dry_run:
         print(f"\n[DRY RUN] Would delete {len(files_to_delete)} files")
@@ -195,7 +175,7 @@ def main():
     
     print(f"\n=== Summary ===")
     print(f"Final: {len(final_icons)} entries")
-    print(f"Removed: {dup_url_count} dup URLs, {broken_count} broken, {len(names_to_remove)} dup images")
+    print(f"Deleted: {len(files_to_delete)} duplicates + {len(orphaned)} orphaned")
     
     return 0
 
