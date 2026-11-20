@@ -1,9 +1,11 @@
 #!/usr/bin/env python3
 """
-Clean up Egern-Icons repo - aggressive duplicate detection:
+Clean up Egern-Icons repo - safe duplicate detection:
 1. Remove duplicate JSON entries (same URL)
-2. Remove visually duplicate images (perceptual hash, Hamming distance <= 8)
-3. Remove name duplicates (normalize: remove _, -, spaces, lowercase; Chinese vs pinyin)
+2. Remove name duplicates (normalize: remove _, -, spaces, lowercase)
+   - Catches TencentVideo vs Tencent_Video, WeChat vs Weixin (if same normalized name)
+3. Remove visually duplicate images (perceptual hash, Hamming distance <= 3)
+   - Conservative threshold to avoid false positives
 4. Remove orphaned files
 5. Remove broken entries
 
@@ -38,7 +40,6 @@ def hamming_distance(hash1, hash2):
 
 def normalize_name(name):
     """Normalize name for comparison: remove _, -, spaces, lowercase."""
-    # Remove underscores, hyphens, spaces
     normalized = re.sub(r'[_\-\s]+', '', name.lower())
     return normalized
 
@@ -87,7 +88,7 @@ def main():
     name_dups = {k: v for k, v in name_groups.items() if len(v) > 1}
     print(f"\nStep 3: Found {len(name_dups)} name duplicate groups")
     
-    # Step 4: Find visual duplicates (perceptual hash, distance <= 8)
+    # Step 4: Find visual duplicates (perceptual hash, distance <= 3 - CONSERVATIVE)
     print(f"\nStep 4: Computing perceptual hashes...")
     hashes = {}
     for icon in valid_icons:
@@ -98,7 +99,7 @@ def main():
                 hashes[h] = []
             hashes[h].append(icon)
     
-    # Find groups with Hamming distance <= 8
+    # Find exact matches and near-matches (distance <= 3)
     hash_list = list(hashes.keys())
     visual_groups = []
     visited = set()
@@ -111,7 +112,7 @@ def main():
         for h2 in hash_list[i+1:]:
             if h2 in visited:
                 continue
-            if hamming_distance(h1, h2) <= 8:
+            if hamming_distance(h1, h2) <= 3:
                 group.append(h2)
                 visited.add(h2)
         if len(group) > 1:
@@ -120,13 +121,12 @@ def main():
                 icons.extend(hashes[h])
             visual_groups.append(icons)
     
-    print(f"  Found {len(visual_groups)} visual duplicate groups (distance <= 8)")
+    print(f"  Found {len(visual_groups)} visual duplicate groups (distance <= 3)")
     
-    # Combine all duplicate groups
+    # Combine groups
     all_groups = list(name_dups.values()) + visual_groups
     
-    # Deduplicate groups (same icons might appear in both name and visual groups)
-    # Use a set of frozensets to track unique groups
+    # Deduplicate groups
     seen_groups = set()
     unique_groups = []
     for group in all_groups:
@@ -137,7 +137,7 @@ def main():
     
     print(f"\nTotal unique duplicate groups: {len(unique_groups)}")
     
-    # For each group, keep one (prefer English, shortest, no underscore)
+    # For each group, keep one
     def sort_key(icon):
         name = icon['name']
         is_english = all(ord(c) < 128 for c in name)
