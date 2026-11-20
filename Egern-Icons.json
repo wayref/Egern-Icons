@@ -1891,10 +1891,6 @@
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/xAI.png"
     },
     {
-      "name": "China",
-      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/China.png"
-    },
-    {
       "name": "AU",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/AU.png"
     },
@@ -1905,6 +1901,10 @@
     {
       "name": "CN",
       "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/CN.png"
+    },
+    {
+      "name": "China",
+      "url": "https://raw.githubusercontent.com/wayref/Egern-Icons/main/Color/China.png"
     },
     {
       "name": "DE",
