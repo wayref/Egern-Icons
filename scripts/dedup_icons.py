@@ -5,7 +5,9 @@ Clean up Egern-Icons repo - user's approach:
 2. For each name group, check if images are the same (perceptual hash)
 3. Only delete if BOTH name AND image match
 
-This avoids deleting different apps that happen to look similar.
+Orphan cleanup: only delete files that have been orphaned for >7 days
+(check git log for when file was last modified - recent files might be
+in the middle of a multi-step restore, so we wait).
 
 Usage:
     python3 dedup_icons.py [--dry-run]
@@ -15,6 +17,8 @@ import sys
 import json
 import re
 import urllib.parse
+import subprocess
+from datetime import datetime, timezone
 from pathlib import Path
 from PIL import Image
 
@@ -38,6 +42,23 @@ def hamming_distance(hash1, hash2):
 def normalize_name(name):
     """Normalize name: remove _, -, spaces, lowercase."""
     return re.sub(r'[_\-\s]+', '', name.lower())
+
+def get_file_age_days(filepath):
+    """Get age in days of a file's last commit."""
+    try:
+        result = subprocess.run(
+            ['git', 'log', '-1', '--format=%ct', '--', str(filepath)],
+            capture_output=True, text=True, cwd=filepath.parent.parent
+        )
+        if result.returncode != 0 or not result.stdout.strip():
+            return 999  # Unknown, treat as old
+        timestamp = int(result.stdout.strip())
+        file_time = datetime.fromtimestamp(timestamp, tz=timezone.utc)
+        now = datetime.now(timezone.utc)
+        age = (now - file_time).total_seconds() / 86400
+        return age
+    except Exception:
+        return 999
 
 def main():
     dry_run = '--dry-run' in sys.argv
@@ -94,7 +115,6 @@ def main():
                 hashes[icon['name']] = h
         
         # Find icons with same/very similar hash (distance <= 3)
-        # Group by hash similarity
         visited = set()
         for i, icon1 in enumerate(group):
             if icon1['name'] in visited:
@@ -117,8 +137,6 @@ def main():
                     visited.add(icon2['name'])
             
             if len(similar) > 1:
-                # Found duplicates within this name group
-                # Keep one (prefer English, no underscore, shortest)
                 def sort_key(icon):
                     name = icon['name']
                     is_english = all(ord(c) < 128 for c in name)
@@ -139,17 +157,44 @@ def main():
             else:
                 print(f"  -> No image duplicates (names similar but images different)")
     
-    # NO orphan deletion - removed because it was deleting files before JSON was updated
-    # (files restored via API appear as "orphaned" until JSON is updated in a separate commit)
+    # Step 4: Find orphaned files - but only delete if orphaned for >7 days
+    json_filenames = set(
+        urllib.parse.unquote(icon['url'].split('/')[-1])
+        for icon in valid_icons
+    )
+    all_files = set(f.name for f in color_dir.glob('*.png'))
+    orphaned = all_files - json_filenames
+    
+    print(f"\nOrphaned files: {len(orphaned)}")
+    old_orphans = []
+    recent_orphans = []
+    for filename in sorted(orphaned):
+        age = get_file_age_days(color_dir / filename)
+        if age > 7:
+            old_orphans.append(filename)
+            print(f"  - {filename} (orphaned {age:.1f} days, will delete)")
+        else:
+            recent_orphans.append(filename)
+            print(f"  - {filename} (orphaned {age:.1f} days, too recent, skip)")
+    
+    print(f"\nWill delete {len(old_orphans)} old orphans, skip {len(recent_orphans)} recent ones")
     
     if dry_run:
-        print(f"\n[DRY RUN] Would delete {len(files_to_delete)} files")
+        print(f"\n[DRY RUN] Would delete {len(files_to_delete)} duplicates + {len(old_orphans)} orphans")
         return 0
     
-    # Delete files
+    # Delete duplicate files
     for filename in files_to_delete:
         try:
             (color_dir / filename).unlink()
+        except Exception as e:
+            print(f"  Failed: {filename}: {e}")
+    
+    # Delete old orphaned files
+    for filename in old_orphans:
+        try:
+            (color_dir / filename).unlink()
+            print(f"  Deleted orphan: {filename}")
         except Exception as e:
             print(f"  Failed: {filename}: {e}")
     
@@ -163,7 +208,7 @@ def main():
     
     print(f"\n=== Summary ===")
     print(f"Final: {len(final_icons)} entries")
-    print(f"Deleted: {len(files_to_delete)} duplicates")
+    print(f"Deleted: {len(files_to_delete)} duplicates + {len(old_orphans)} orphans")
     
     return 0
 
